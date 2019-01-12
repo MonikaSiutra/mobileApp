@@ -35,6 +35,9 @@ namespace App.Views
                     case (int)MenuItemType.FaceDetection:
                         MenuPages.Add(id, new NavigationPage(new FacePage()));
                         break;
+                    case (int)MenuItemType.Bing:
+                        MenuPages.Add(id, new NavigationPage(new BingPage()));
+                        break;
                 }
             }
 

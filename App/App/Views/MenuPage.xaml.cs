@@ -21,6 +21,7 @@ namespace App.Views
                 new HomeMenuItem {Id = MenuItemType.ComputerVision, Title="Computer Vision" },
                 new HomeMenuItem {Id = MenuItemType.FaceDetection, Title="Face Description" },
                 new HomeMenuItem {Id = MenuItemType.Browse, Title="Lista" },
+                new HomeMenuItem {Id = MenuItemType.Bing, Title ="Bing"},
             };
 
             ListViewMenu.ItemsSource = menuItems;

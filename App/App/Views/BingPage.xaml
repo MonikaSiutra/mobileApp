@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.Views.BingPage"
+             Title="Wyszukiwarka zdjęcia">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="SearchQuery" PlaceholderColor="Olive" x:Name="EntrySearchQuery" />
+            <Button x:Name="Search" Text="Szukaj obrazu" 
+                    Clicked="OnSearchClicked"/>
+            <Label Text="Url: " x:Name="Url" />
+            <Image Source="" 
+                   x:Name="SearchImage"
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

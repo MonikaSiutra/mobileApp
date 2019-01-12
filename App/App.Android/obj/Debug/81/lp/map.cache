@@ -1,6 +1,10 @@
 App
-System.Runtime
 FormsViewGroup
+Plugin.CurrentActivity
+Plugin.Media
+Plugin.Permissions
+RestSharp
+System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
 Xamarin.Android.Arch.Lifecycle.Runtime
@@ -24,8 +28,4 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
-Plugin.CurrentActivity
-Plugin.Media
-Plugin.Permissions
-RestSharp
 netstandard

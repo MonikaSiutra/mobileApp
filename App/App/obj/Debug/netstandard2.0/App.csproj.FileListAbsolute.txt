@@ -3,7 +3,6 @@ C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\A
 C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\App.AssemblyInfo.cs
 C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\bin\Debug\netstandard2.0\App.deps.json
 C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\bin\Debug\netstandard2.0\App.dll
-C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\App.csprojAssemblyReference.cache
 C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
 C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
@@ -16,3 +15,5 @@ C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\A
 C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\App.pdb
 C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\Views\ComputerVision.xaml.g.cs
 C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\Views\FacePage.xaml.g.cs
+C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\Views\BingPage.xaml.g.cs
+C:\Users\andrzej.andrzejczuk\source\repos\App\App\App\obj\Debug\netstandard2.0\App.csprojAssemblyReference.cache

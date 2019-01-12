@@ -9,6 +9,7 @@ namespace App.Models
         ComputerVision,
         FaceDetection,
         Browse,
+        Bing,
     }
     public class HomeMenuItem
     {
